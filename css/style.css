@@ -1,0 +1,58 @@
+#jokeri-taulukko {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  #jokeri-taulukko th, #jokeri-taulukko td {
+    border: none;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #jokeri-taulukko thead {
+    background-color: #3f51b5;
+    color: #812e2e;
+  }
+  
+  #jokeri-taulukko tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  
+  #jokeri-taulukko thead {
+    background-color: #711c1c;
+    border-bottom: 1px solid #ddd;
+  }
+  #jokeri-taulukko div {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  #jokeri-taulukko div {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #jokeri-taulukko div:hover {
+    background-color: #f9f9f9;
+  }
+  
+  
+  
